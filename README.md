@@ -5,8 +5,8 @@
 
 -----------------
 
-With the advance of eye-tracking technology, hands-free application control with your eyes is no longer just a futuristic idea. Lattice Menu is a robust eye gaze-controlled menu employing a lattice of visual anchors. You can stably and quickly trigger commands using target-assisted gaze gestures over the visual anchors of Lattice Menu. This project is about to be published in [CHI 2022](https://chi2022.acm.org/).
-More information about this work can be found in: [Paper](https://taejun13.github.io/paper/LatticeMenu_paper.pdf) | [DOI](https://dl.acm.org/doi/abs/10.1145/3491102.3501977) | [Video](https://youtu.be/p9zJ8-umYQk)
+With the advance of eye-tracking technology, hands-free application control with your eyes is no longer just a futuristic idea. Lattice Menu is a robust eye gaze-controlled menu employing a lattice of visual anchors. You can stably and quickly trigger commands using target-assisted gaze gestures over the visual anchors of Lattice Menu. This project has been published in [CHI 2022](https://chi2022.acm.org/).
+More information about this work can be found in: [Paper](https://taejunkim.com/paper/LatticeMenu_paper.pdf) | [DOI](https://dl.acm.org/doi/abs/10.1145/3491102.3501977) | [Video](https://youtu.be/p9zJ8-umYQk)
 
 
 
